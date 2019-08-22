@@ -4,7 +4,8 @@
             "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
-            "mainClass": "batchreplace.App"
+            "mainClass": "org.bwagnel.batchrename.App",
+             "args": "d:\\wang\\Documents\\git\\mall4j yami hb"
         }
     ]
 }
